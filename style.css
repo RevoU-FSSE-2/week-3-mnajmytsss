@@ -385,30 +385,6 @@ nav ul {
   margin-bottom: 15px;
 }
 
-.wdyt {
-  margin-bottom: 15px;
-}
-
-.wdyt p {
-  margin-bottom: 10px;
-}
-
-.tellus {
-  margin-bottom: 15px;
-}
-
-.tellus p {
-  margin-bottom: 10px;
-}
-
-.upload {
-  margin-bottom: 15px;
-}
-
-.upload p {
-  margin-bottom: 10px;
-}
-
 .submit {
   display: flex;
   justify-content: space-evenly;
